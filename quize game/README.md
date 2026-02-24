@@ -3,7 +3,7 @@
 
 A fun, fully responsive, and interactive Quiz Game built from scratch using core web technologies. This project was designed to test user knowledge while showcasing dynamic UI updates, state management, and smooth CSS transitions.
 
-![Quiz Game Preview](\Title (1).png) 
+![Quiz Game Preview](![Game ScreenShot](https://raw.githubusercontent.com/Abhishekvictor/100MiniProjects/refs/heads/main/quize%20game/Title%20(1).png)) 
 
 
 ## ✨ Features
