@@ -1,0 +1,29 @@
+body{
+    background-color:#B5D8CC;
+
+}
+
+#container{
+    border: 2px solid #000000;
+    margin: 50px;
+    background-color: #89A7A7;
+
+}
+#heading-container{
+    display: flex;
+    justify-content: center;
+}
+#btn-main-container{
+    display: flex;
+    justify-content: left;
+}
+
+button{
+    background-color: #72E1D1;
+    border: 2px solid;
+    border-radius: 20px;
+    padding:10px ;
+    margin: 50px;
+    cursor:pointer;
+    
+}
