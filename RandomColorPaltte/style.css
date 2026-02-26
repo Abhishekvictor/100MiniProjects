@@ -3,20 +3,11 @@ body{
 
 }
 
-#container{
-    border: 2px solid #000000;
-    margin: 50px;
-    background-color: #89A7A7;
-
-}
 #heading-container{
     display: flex;
     justify-content: center;
 }
-#btn-main-container{
-    display: flex;
-    justify-content: left;
-}
+
 
 button{
     background-color: #72E1D1;
@@ -27,3 +18,36 @@ button{
     cursor:pointer;
     
 }
+
+#color-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#one-color{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 60px;
+}
+#two-color{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 60px;
+}
+#three-color{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 60px;
+}
+#four-color{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 60px;
+}
+#five-color{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 60px;
+}
+
