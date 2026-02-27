@@ -9,6 +9,12 @@ const randomcolor = function(){
     return color;
 }
 console.log(randomcolor());
+console.log(randomcolor());
+console.log(randomcolor());
+console.log(randomcolor());
+console.log(randomcolor());
+
+
 
 document.getElementById('color-btn').addEventListener('click', function(){
 
